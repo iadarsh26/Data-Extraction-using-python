@@ -6,4 +6,4 @@ Python 3.8
 
 pandas
 
-You can install using pip-install pandas
+You can install using pip install pandas
