@@ -5,4 +5,5 @@ Extracting data of any company from yahoo finance using pandas.
 Python 3.8
 
 pandas
+
 You can install using pip-install pandas
